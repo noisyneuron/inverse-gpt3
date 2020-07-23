@@ -1,4 +1,16 @@
-y
+have you ever wondered if
+the clouds are time
+or poetry
+danger
+lies in the ocean floor
+while space, in fragments
+belies the death
+breathe, spoke the whale
+have you have i
+if have
+if time
+wished
+upon joy
 fame and glory
 
 vec3(1000.0,fbm(x),smoothstep(x,t,(x - t)))
